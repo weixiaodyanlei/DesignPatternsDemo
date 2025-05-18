@@ -1,4 +1,4 @@
-package com.dawn.simplefactory.framework;
+package com.dawn.simplefactory.factory;
 
 import com.dawn.simplefactory.tv.TV;
 import com.dawn.simplefactory.tv.impl.HaierTV;
